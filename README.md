@@ -16,63 +16,28 @@ I specialize in Machine Learning, AI-powered applications, and full-stack ML sys
 
 I enjoy creating AI-powered products that combine machine learning with usable applications.
 
-## Technical Skills
+### Technical Skills
 
-### Machine Learning & AI
+🧠 AI / Machine Learning Stack
 
-Machine Learning (Supervised Learning, Classification Models)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![ScikitLearn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
 
-Deep Learning Fundamentals
+🤖 LLM / AI Engineering
 
-Natural Language Processing
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![Pinecone](https://img.shields.io/badge/Pinecone-3ECF8E?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-FF4B4B?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-6C63FF?style=for-the-badge)
 
-Retrieval Augmented Generation (RAG)
+🗄️ Databases
 
-Prompt Engineering
-
-AI Agent Workflows
-
-AI & Data Libraries
-
-Scikit-learn
-
-TensorFlow / Keras
-
-Pandas
-
-NumPy
-
-Matplotlib
-
-### LLM & AI Tools
-
-LangChain
-
-Pinecone (Vector Database)
-
-Google Antigravity (Agentic workflows)
-
-### Programming Languages
-
-Python
-
-### Backend Development
-
-Flask
-
-REST API Development
-
-SQLite
-
-Interactive Data Visualization
-
-### Data & Databases
-
-SQL
-
-SQLite
-
-Data preprocessing & feature engineering
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite)
 
 <!--
 **LowKhengLiang/LowKhengLiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
