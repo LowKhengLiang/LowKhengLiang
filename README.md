@@ -3,6 +3,8 @@
 
 I specialize in Machine Learning, AI-powered applications, and full-stack ML systems, with experience designing end-to-end solutions from data processing → model development → deployment → user-facing applications.
 
+Adopting the new way of software development through Agentic workflows!
+
 ## About Me
 🎓 Bachelor’s degree with specialization in Machine Learning
 
@@ -16,8 +18,7 @@ I specialize in Machine Learning, AI-powered applications, and full-stack ML sys
 
 I enjoy creating AI-powered products that combine machine learning with usable applications.
 
-### Technical Skills
-
+## Technical Skills
 🧠 AI / Machine Learning Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -38,6 +39,10 @@ I enjoy creating AI-powered products that combine machine learning with usable a
 
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite)
+
+## Featured Projects
+🤖 AI Travel Itinerary Planner
+
 
 <!--
 **LowKhengLiang/LowKhengLiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
