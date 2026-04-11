@@ -1,6 +1,8 @@
 ## Hi there! I'm Kheng Liang!👋
 💡 Machine Learning & AI Engineer passionate about building intelligent systems that solve real-world problems.
 
+Portfolio: https://lowkhengliang.github.io/Portfolio-Website/ (Work in progress)
+
 I specialize in Machine Learning, AI-powered applications, and full-stack ML systems, with experience designing end-to-end solutions from data processing → model development → deployment → user-facing applications.
 
 Adopting the new way of software development through Agentic workflows!
